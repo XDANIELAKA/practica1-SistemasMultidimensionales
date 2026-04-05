@@ -1,0 +1,98 @@
+# =========================
+# Entornos virtuales
+# =========================
+env/
+venv/
+.venv/
+SM/
+env_SM/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / build
+build/
+dist/
+*.egg-info/
+
+# pytest / mypy / caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# Variables de entorno / secretos
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Resultados temporales del benchmark
+# =========================
+benchmark_resultados.csv
+*.tmp
+*.bak
+
+# =========================
+# Archivos auxiliares de LaTeX
+# =========================
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.fmt
+*.fot
+*.lof
+*.log
+*.lot
+*.lol
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+
+# =========================
+# PDFs generados opcionales
+# =========================
+# Descomenta si NO quieres subir PDFs generados
+# *.pdf
+
+# =========================
+# Archivos temporales de editores
+# =========================
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Claves SSH y credenciales
+# =========================
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+*.pem
+*.key
