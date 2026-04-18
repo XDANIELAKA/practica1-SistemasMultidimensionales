@@ -53,7 +53,7 @@ En el **Hito 4** se lleva a cabo el **benchmarking y la evaluación**, comparand
 │   ├── 18_queries_benchmark_oltp.sql
 │   ├── 19_queries_benchmark_star.sql
 │   ├── 20_queries_benchmark_snow.sql
-│   └── 99_full_build.sql
+├── 99_full_build.sql
 └── docs/
     ├── diagrams/
     └── images/
