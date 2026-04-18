@@ -10,6 +10,14 @@ El dominio elegido para la práctica es el sector turístico, concretamente una 
 
 ---
 
+## Objetivo
+
+Los sistemas de información modernos generan grandes volúmenes de datos transaccionales que requieren ser transformados en conocimiento estratégico para la toma de decisiones. Los Data Warehouses (DW) y los sistemas multidimensionales proporcionan la arquitectura necesaria para consolidar, organizar y analizar datos históricos de múltiples fuentes, permitiendo a los analistas y directivos responder preguntas complejas de negocio mediante operaciones OLAP (Online Analytical Processing).
+
+Esta práctica tiene como propósito aplicar el ciclo completo de diseño e implementación de un Data Warehouse, desde la identificación de fuentes transaccionales hasta la evaluación de rendimiento de consultas analíticas. Se hace énfasis en conceptos clave como dimensiones, hechos, granularidad, jerarquías, Bus Matrix y Slowly Changing Dimensions (SCD).
+
+---
+
 ## Contenido del proyecto
 
 El trabajo se ha estructurado en varios hitos.
